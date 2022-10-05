@@ -1,1 +1,1 @@
-# Samsung-stopwatch
+# Samsung Stopwatch
